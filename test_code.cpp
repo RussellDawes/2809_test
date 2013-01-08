@@ -6,6 +6,7 @@ void kevin()
 {
 	cout << "Kevin Rocks!" << endl;
 	cout << "Duncan was Here" << endl;
+	cout << "Rule 93 is a lie" << endl;
 }
 
 int main()
